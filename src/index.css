@@ -105,17 +105,18 @@ a:visited {
 }
 
 .grid-logo-holder {
+  padding: 30px;
   width: 250px;
 }
 
 @media(max-width: 768px){
   .grid-logo-holder {
     width: 150px;
+    padding: 30px 30px 10px 30px;
   }
 }
 
 .grid-logo {
-  margin: 30px;
   transition: all 200ms linear;
   cursor: pointer;
 }

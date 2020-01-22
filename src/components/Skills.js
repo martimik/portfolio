@@ -9,16 +9,8 @@ export default function About() {
     <div className={classes.wrapper}>
       <div className={classes.content}>
         <h1 className={classes.header}>Skills & Experience</h1>
-        <p className={classes.paragraph}>
-          {" "}
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry.
-        </p>
-        <p className={classes.paragraph}>
-          {" "}
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry.
-        </p>
+        <p className={classes.paragraph}> </p>
+        <p className={classes.paragraph}> </p>
         <div className={classes.chipContainer}>
           <Chip label="Javascript" className={classes.chip} />
           <Chip label="React" className={classes.chip} />
@@ -27,6 +19,7 @@ export default function About() {
           <Chip label="NodeJS" className={classes.chip} />
           <Chip label="C#" className={classes.chip} />
           <Chip label="C++" className={classes.chip} />
+          <Chip label="WPF" className={classes.chip} />
           <Chip label="Python" className={classes.chip} />
           <Chip label="Kotlin" className={classes.chip} />
           <Chip label="HTML5" className={classes.chip} />

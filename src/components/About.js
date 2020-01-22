@@ -15,15 +15,16 @@ export default function About() {
           Applied Sciences.
         </p>
         <p className={classes.status}>
-          The current treasurer and board member of{" "}
-          <a href="https://www.jio.fi">
-            Jyväskylän insinööriopiskelijat JIO ry
-          </a>
+          The current treasurer and a board member of{" "}
+          <a href="https://www.jio.fi">Jyväskylän insinööriopiskelijat ry</a>
         </p>
         <p className={classes.paragraph}>
-          I am studying my third year in{" "}
-          <b>Information and Communication technology</b> and i specialize in
-          software developement.
+          In the field of <b>Information and Communications technologies</b>, my
+          studies are focused on software- and full-stack web developement. In
+          addition, my interest is focused on mobile application developement.
+          Technical documentation and agile workflows are also familiar to me.
+          My goal is to be able to create functional systems with usability
+          always in mind.
         </p>
       </div>
     </div>
