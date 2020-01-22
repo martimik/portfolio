@@ -1,3 +1,3 @@
 # Personal portfolio
 
-[Live version](https://www.mikkomartikainen.web.app)
+[Live version](https://mikkomartikainen.web.app/)
