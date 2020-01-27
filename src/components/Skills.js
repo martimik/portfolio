@@ -9,8 +9,18 @@ export default function About() {
     <div className={classes.wrapper}>
       <div className={classes.content}>
         <h1 className={classes.header}>Skills & Experience</h1>
-        <p className={classes.paragraph}> </p>
-        <p className={classes.paragraph}> </p>
+        <p className={classes.paragraph}>
+          Going through several software projects with a complete lifecycle have
+          taught me a lot about software developement. I have been working on
+          frontend technologies and backend implementations all together. Mobile
+          developement is also familiar to me.
+        </p>
+        <p className={classes.paragraph}>
+          Creating and understanding RESTful APIs as well as databases, such as
+          mySql and MongoDB, has also always been important. The largest
+          projects i have been involved in are produced using this kind of
+          architecture.
+        </p>
         <div className={classes.chipContainer}>
           <Chip label="Javascript" className={classes.chip} />
           <Chip label="React" className={classes.chip} />

@@ -18,6 +18,13 @@ export default function About() {
           The current treasurer and a board member of{" "}
           <a href="https://www.jio.fi">Jyväskylän insinööriopiskelijat ry</a>
         </p>
+        <p className={classes.paragraph}>
+          I am on the third year of my studies in software developement. My
+          interests are focused on software-, fullstack-, and mobile application
+          developement. Technical documentation and agile workflows are also
+          familiar to me. My goal is to be able to create functional systems
+          with usability always in mind.
+        </p>
       </div>
     </div>
   );
