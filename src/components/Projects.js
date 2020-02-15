@@ -31,7 +31,7 @@ export default function Projects() {
                   </svg>
                 </Tooltip>
               </a>
-              <a href="http://front-end-tuhlari.rahtiapp.fi/#/">
+              <a href="https://front-end-tuhlari.rahtiapp.fi/#/">
                 <Tooltip title="Demo" style={{ fontSize: "16px" }}>
                   <svg
                     id="logo"
