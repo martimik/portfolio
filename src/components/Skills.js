@@ -10,16 +10,15 @@ export default function About() {
       <div className={classes.content}>
         <h1 className={classes.header}>Skills & Experience</h1>
         <p className={classes.paragraph}>
-          Going through several software projects with a complete lifecycle have
+          Going through several software projects with a complete lifecycle has
           taught me a lot about software developement. I have been working on
-          frontend technologies and backend implementations all together. Mobile
-          developement is also familiar to me.
+          front-end technologies and backend implementations all together. I
+          have also gained some android mobile developement experience.
         </p>
         <p className={classes.paragraph}>
-          Creating and understanding RESTful APIs as well as databases, such as
-          mySql and MongoDB, has also always been important. The largest
-          projects i have been involved in are produced using this kind of
-          architecture.
+          Working with REST APIs as well as databases, like mySql and MongoDB
+          has always been important. Most projects i have been involved in are
+          using this kind of architecture.
         </p>
         <div className={classes.chipContainer}>
           <Chip label="Javascript" className={classes.chip} />

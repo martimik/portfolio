@@ -16,7 +16,9 @@ export default function About() {
         </p>
         <p className={classes.status}>
           The current treasurer and a board member of{" "}
-          <a href="https://www.jio.fi">Jyväskylän insinööriopiskelijat ry</a>
+          <a href="https://www.jio.fi">
+            Jyväskylän insinööriopiskelijat JIO ry
+          </a>
         </p>
         <p className={classes.paragraph}>
           I am on the third year of my studies in software developement. My
@@ -57,7 +59,7 @@ const useStyles = makeStyles(theme => ({
     }
   },
   paragraph: {
-    textAlign: "left",
+    textAlign: "center",
     margin: "2vh 0",
     "@media(min-width: 768px)": {
       fontSize: "16px"
